@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2 {
+  margin-top: 9vw;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFF;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 13vw;
+  font-weight: 700;
+}
+
+p {
+  display: none;
+
+  width: 76vw;
+  margin-top: 8vw;
+  margin-bottom: 5vw;
+  margin-left: 12vw;
+
+  text-align: center;
+
+  color: #FFF;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 3vw;
+  font-weight: 400;
+  line-height: 3vw;
+}
